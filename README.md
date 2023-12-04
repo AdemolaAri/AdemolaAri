@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋🏼, I'm Ade</h1>
 <h2 align="center">Full-stack Software Engineer currently based in Chicago, IL 🌁</h2>
 
-- 🔭 I’m currently working on Django Apps using DRF
+- 🔭 I’m currently working building the new state of the art Kroger Ad Platform ;)
 
 - 🌱 I’m currently learning **Gen A.I and Large Language Model**
 
