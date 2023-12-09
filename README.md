@@ -82,6 +82,4 @@
 
 <h2 align="center">GitHub Stats 🔗 </h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ademolaari&show_icons=true&hide_border=true&locale=en" alt="ademolaari" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ademolaari&show_icons=true&locale=en&layout=compact" alt="ademolaari" /></p>
