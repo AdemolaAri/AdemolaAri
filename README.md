@@ -1,5 +1,12 @@
-<h1 align="center">Hi there 👋🏼, I'm Ade</h1>
+<h1 align="center">Hi there 👋🏼, I'm Ademola</h1>
 <h2 align="center">Full-stack Software Engineer currently based in Chicago, IL 🌁</h2>
+
+<p align="center">
+    <a align="center" href="https://github.com/AdemolaAri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="ademolabuwo" height="30" width="40" /></a>  
+    <a href="https://www.linkedin.com/in/ademolabuwo/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_PNG16.png" alt="ademolabuwo" height="30" width="40" /></a>             
+    <a href="https://www.kaggle.com/princedemo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="ademolabuwo" height="30" width="40" /></a>
+</p>
+
 
 - 🔭 I’m currently working building the new state of the art Kroger Ad Platform ;)
 
